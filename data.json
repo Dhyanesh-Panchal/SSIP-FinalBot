@@ -1,0 +1,44 @@
+{
+    "Branch": {
+        
+            "01":{
+                "07":"COMPUTER ENGINEERING",
+                "16":"INFORMATION TECHNOLOGY",
+                "09":"ELECTRICAL ENGINEERING",
+                "05":"CHEMICAL ENGINEERING",
+                "06":"CIVIL ENGINEERING",
+                "11":"ELECTRONICS & COMMUNICATION ENGINEERING",
+                "31":"COMPUTER SCIENCE & ENGINEERING",
+                "19":"MECHANICAL ENGINEERING"
+            },
+            "ME":{
+                "01":"COMPUTER (COMPUTER SCIENCE & ENGINEERING)",
+                "02":"COMPUTER ENGINEERING",
+                "03":"ELECTRONICS AND COMMUNICATION ENGINEERING",
+                "23":"INFORMATION TECHNOLOGY",
+                "30":"CHEMICAL ENGINEERING"
+                },
+            "03":{
+                "11":"ELECTRONICS & COMMUNICATION ENGINEERING",
+                "07":"COMPUTER ENGINEERING",
+                "06":"CIVIL ENGINEERING",
+                "05":"CHEMICAL ENGINEERING",
+                "16":"INFORMATION TECHNOLOGY",
+                "19":"MECHANICAL ENGINEERING"
+            },
+            "DP":{
+                "90":"PHARMACY"
+            },
+            "MP":{
+                "03":"PHARMACOLOGY",
+                "12":"INDUSTRIAL PHARMACY",
+                "14":"MEDICAL CHEMISTRY",
+                "08":"PHARMACEUTICS",
+                "10":"PHARMACEUTICAL TECHNOLOGY",
+                "21":"INDUSTRIAL PHARMACY"
+            },
+            "FD":{
+                "88":"PHARMACY"
+            }  
+    }
+}
